@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con"
+		path="org.eclipse.jst.j2ee.internal.web.container" />
+	<classpathentry kind="con"
+		path="org.eclipse.jst.j2ee.internal.module.container" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/mysql-connector-java-5.1.18-bin.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency"
+				value="/WEB-INF/lib" />
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/apache-tomcat-7.0.53/lib/servlet-api.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/dsn.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/gimap.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/imap.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/mailapi.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/pop3.jar" />
+	<classpathentry kind="lib"
+		path="C:/Users/Shubham/Desktop/Shubham/Documents/Surya sir java/Mail program/lib/smtp.jar" />
+	<classpathentry kind="output" path="build/classes" />
+</classpath>
